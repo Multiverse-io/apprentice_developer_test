@@ -6,11 +6,10 @@ Using a programming language of your choice, compose a string analysis function 
 
 The report at a minimum must answer the following questions:
 - How many characters are in each string?
-- Are the provided strings palindromes*?
 - Are the provided strings anagrams**?
 - Do any of the provided strings contain numbers?
 
-\* A paldinrome is a word, phrase, or sequence that reads the same backwards as forwards, e.g. madam or nurses run.
+\* A palindrome is a word, phrase, or sequence that reads the same backwards as forwards, e.g. madam or nurses run.
 
 ** An anagram is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once e.g. "debit card" and "bad credit".
 
