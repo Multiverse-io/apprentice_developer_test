@@ -20,3 +20,5 @@ Consider adding additional findings to the report, optimising your solution, or 
 ## Solution
 
 Your solution should be runnable and output a report in the format of your choice.
+
+It should take you no more than a few hours to implement and you will be expected to be able to talk about your solution afterwards.
