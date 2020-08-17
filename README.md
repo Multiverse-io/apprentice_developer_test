@@ -12,7 +12,7 @@ The report at a minimum must answer the following questions:
 
 \* A palindrome is a word, phrase, or sequence that reads the same backwards as forwards, e.g. "madam" or "nurses run".
 
-** An anagram is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once e.g. "debit card" and "bad credit".
+** An anagram is a word or phrase formed by rearranging the letters of a different word or phrase using all the original letters exactly once, e.g. "debit card" and "bad credit".
 
 ### Bonus
 Consider adding additional findings to the report, optimising your solution, or providing unit tests.
