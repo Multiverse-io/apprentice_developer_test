@@ -1,4 +1,4 @@
-# WhiteHat Software Engineer Apprentice Interview Test
+# Multiverse Software Engineer Apprentice Interview Test
 
 ## Problem
 
